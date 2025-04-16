@@ -60,7 +60,7 @@ footer {
     justify-content: center;
 }
 
-/* Responsividade */
+/* Responsividade @*/
 @media (max-width: 768px) {
     .card-img-top {
         height: 200px;
